@@ -1,7 +1,7 @@
 # Sales Prediction using Logistic Regression
 
 ## Introduction
-This project aims to predict sales outcomes using logistic regression. By analyzing the provided dataset, we build a predictive model to classify sales performance based on various features.
+This project's main goal is to predict sales outcomes using logistic regression. By analyzing the provided dataset, we build a predictive model to classify sales performance based on various features.
 
 ## Dataset
 The dataset used in this project is `DigitalAd_dataset.csv`. It contains the following columns:
